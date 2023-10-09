@@ -2,7 +2,6 @@
 
 Learning from the course [Python for beginners](https://learn.microsoft.com/es-es/training/paths/beginner-python/) at Microsoft.
 
-### Resources
+### Resource
 
-- [Python documentation]()
-- [Python repository on GitHub]()
+- [Python official documentation](https://www.python.org/doc/)
