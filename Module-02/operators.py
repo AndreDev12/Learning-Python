@@ -1,3 +1,3 @@
 left_side = 10
 right_side = 5
-print(type(left_side/right_side)) #<class 'float'>
+print(left_side/right_side) #<class 'float'> -> 2.0
