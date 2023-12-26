@@ -4,3 +4,7 @@ def rocket_parts():
 
 output = rocket_parts()
 print(output)
+
+# Argumentos opcionales y requeridos
+print(any([True, False, False]))
+print(any([False, False, False]))
